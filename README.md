@@ -10,7 +10,7 @@ pip install subword-nmt
 
 ## Instruction to generate Byte Pair Encoded (BPE) data
 * Change directory to nmt/BPE_2ch
-* Unzip data_split.tar.gz
+* Unzip "data_split.tar.gz" and "combined.tar.gz"
 * run the "inps.sh" file
 ```bash
 ./inps.sh
